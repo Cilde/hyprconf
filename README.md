@@ -13,5 +13,5 @@ INSTALL USING THE ABOVE GUIDE BEFORE DOING THIS.<br />
 Run `hyprctl monitors`<br />
 Save the monitor names (EG DP-1) somewhere.<br />
 Open ~/.config/hypr/hyprpaper.conf in your preferred text editor.<br />
-Modify `wallpaper = DP-1,/home/amy/Pictures/PurpleCity.jpg` so it is `wallpaper = [PRINTED MONITOR ID],/home/amy/<br />Pictures/PurpleCity.jpg`, if you do not have a second monitor you can remove the second wallpaper entry.<br />
+Modify `wallpaper = DP-1,/home/amy/Pictures/PurpleCity.jpg` so it is `wallpaper = [PRINTED MONITOR ID],[DIRECTORY TO YOUR HOME]<br />Pictures/PurpleCity.jpg`, if you do not have a second monitor you can remove the second wallpaper entry.<br />
 Reboot and enjoy!<br />
